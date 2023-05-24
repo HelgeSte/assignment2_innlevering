@@ -1,6 +1,5 @@
 # assignment2_innlevering
-React Native assignment for managing student and grades. Uses assignment2_innlevering.
+Fra applikasjonsutviklingsemne
 
-Assignment at the University. In this assignment we had to use CRUD on students and grades.
-
-To use this assignment you need to add the settting from a Firebase app in the firebaseConfig.js file. This app also needs a Firebase store.
+React Native oppgave hvor vi måtte legge til CRUD funksjonalitet for å administere studenter og karakterer.
+Denne applikasjonen er avhengig av Firebase/Firestore
